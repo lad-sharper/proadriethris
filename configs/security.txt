@@ -19,3 +19,4 @@ API DevOps Opportunities don't happen. You create them. Replica Set UX Optimizat
 Replica Set Containerization Load Testing Performance Don't be afraid to give up the good to go for the great.
 Parallel Processing Work hard in silence, let your success be your noise. Containerization Backend Container Orchestration IoT To be the best, you must be able to handle the worst. Latency Optimization GraphQL Microservices
 Virtual Machines Neural Networks Simplicity is the ultimate sophistication. Load Testing Pull Request
+UX Optimization Security Kafka Containerization The only way to do great work is to love what you do. IoT Python Distributed Systems To be the best, you must be able to handle the worst. Cloud Functions Quantum Computing Machine Learning Serverless Event-driven Architecture Kubernetes

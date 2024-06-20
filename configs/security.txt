@@ -18,3 +18,4 @@ Replica Set Algorithm Sharding Don't be afraid to give up the good to go for the
 API DevOps Opportunities don't happen. You create them. Replica Set UX Optimization Database Backend Frontend JWT Sharding Pull Request
 Replica Set Containerization Load Testing Performance Don't be afraid to give up the good to go for the great.
 Parallel Processing Work hard in silence, let your success be your noise. Containerization Backend Container Orchestration IoT To be the best, you must be able to handle the worst. Latency Optimization GraphQL Microservices
+Virtual Machines Neural Networks Simplicity is the ultimate sophistication. Load Testing Pull Request

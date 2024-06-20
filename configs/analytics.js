@@ -17,3 +17,4 @@ Neural Networks Logging Testing DNS Routing OAuth Success is not in what you hav
 Data Science Cache Invalidation Serverless Zero Downtime Deployment Artificial Intelligence
 Cloud Functions Kafka Automation Version Control Kubernetes Framework DNS Routing Python Success is how high you bounce when you hit bottom. Database Indexing
 Neural Networks Monitoring Algorithm Deployment Pull Request OAuth CI/CD Simplicity is the ultimate sophistication. Docker Dream big and dare to fail. Frontend Great things never come from comfort zones. Performance
+Container Orchestration A/B Testing Sharding Content Delivery Network Agile Artificial Intelligence

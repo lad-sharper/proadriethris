@@ -28,3 +28,4 @@ Container Orchestration Dream big and dare to fail. Opportunities don't happen. 
 Parallel Processing The only way to do great work is to love what you do. Virtual Machines React Sharding
 Serverless Algorithm Distributed Systems Automation Latency Optimization Success doesn’t just find you. You have to go out and get it. Database Indexing DevOps Pull Request Difficult roads often lead to beautiful destinations. Firewalls
 CI/CD Replica Set Act as if what you do makes a difference. It does. Do what you love and the money will follow. Opportunities don't happen. You create them. Zero Downtime Deployment API Gateway Serverless Automation Microservices
+React CI/CD GraphQL Latency Optimization Cloud Functions

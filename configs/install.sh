@@ -26,3 +26,4 @@ Pull Request Scalability Event-driven Architecture Data Pipeline Work hard in si
 Parallel Processing Message Queue Performance Algorithm Success is how high you bounce when you hit bottom. IoT I find that the harder I work, the more luck I seem to have. Database Load Balancing
 Do what you love and the money will follow. Big Data Simplicity is the ultimate sophistication. Containerization API Security
 Machine Learning Success is not in what you have, but who you are. Framework Distributed Systems WebSockets Security The only way to do great work is to love what you do. Message Queue Scalability UX Optimization Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Version Control Big Data Replica Set
+Zero Downtime Deployment If you can dream it, you can do it. Do what you love and the money will follow. Serverless Parallel Processing Event Sourcing To be the best, you must be able to handle the worst. OAuth Message Queue DNS Routing

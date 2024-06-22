@@ -17,3 +17,4 @@ Do what you love and the money will follow. Cache Invalidation Optimization To b
 To be the best, you must be able to handle the worst. Load Testing Artificial Intelligence Database Great things never come from comfort zones. Data Pipeline Event-driven Architecture
 Optimization Quantum Computing Kafka Content Delivery Network Code Review Cloud Functions
 Kafka Performance Big Data Blockchain Edge Computing API Gateway IoT
+Event-driven Architecture Data Pipeline Act as if what you do makes a difference. It does. Python Containerization Success doesn’t just find you. You have to go out and get it. Virtual Machines Deployment

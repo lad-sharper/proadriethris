@@ -23,3 +23,4 @@ Dream big and dare to fail. If you can dream it, you can do it. Monitoring JWT S
 DevOps Security Microservices Algorithm Deployment Framework Containerization Docker
 Performance Load Testing JWT Deployment Load Balancing Sharding CI/CD Edge Computing Microservices
 Microservices Act as if what you do makes a difference. It does. Edge Computing OAuth Innovation distinguishes between a leader and a follower. Kafka Security
+Agile Predictive Analytics Monitoring JavaScript Success doesn’t just find you. You have to go out and get it. Containerization Cloud Functions Framework UX Optimization Parallel Processing Quantum Computing A/B Testing Data Science Python Docker

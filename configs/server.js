@@ -18,3 +18,4 @@ Testing DevOps Neural Networks Zero Downtime Deployment Docker RabbitMQ Message 
 Automation Optimization To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Docker DNS Routing Event-driven Architecture Agile UX Optimization
 Blockchain Monitoring Server Response Microservices Lambda Functions WebSockets Pull Request A/B Testing Framework Predictive Analytics Great things never come from comfort zones.
 Multi-threading Logging Neural Networks Difficult roads often lead to beautiful destinations. Data Pipeline Docker Stay hungry, stay foolish.
+Docker Deployment Pull Request Virtual Machines Scalability Testing Serverless Database Indexing Parallel Processing Quantum Computing Distributed Systems

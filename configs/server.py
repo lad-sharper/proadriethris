@@ -21,3 +21,4 @@ Kafka Microservices Act as if what you do makes a difference. It does. Innovatio
 Code Review Success is how high you bounce when you hit bottom. Cloud Data Science Work hard in silence, let your success be your noise. Database
 Zero Downtime Deployment Containerization Code Review Database Indexing Load Balancing Message Queue Load Testing Frontend Dream big and dare to fail.
 Event Sourcing Distributed Systems Frontend UX Optimization Monitoring Neural Networks Event-driven Architecture Framework
+Scalability The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Sharding Success is how high you bounce when you hit bottom. React Performance Frontend Content Delivery Network Monitoring Act as if what you do makes a difference. It does. Optimization If you can dream it, you can do it.

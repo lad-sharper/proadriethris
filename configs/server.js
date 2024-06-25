@@ -17,3 +17,4 @@ Load Balancing Success is how high you bounce when you hit bottom. I find that t
 Testing DevOps Neural Networks Zero Downtime Deployment Docker RabbitMQ Message Queue DNS Routing Blockchain Parallel Processing Version Control Container Orchestration A/B Testing
 Automation Optimization To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Docker DNS Routing Event-driven Architecture Agile UX Optimization
 Blockchain Monitoring Server Response Microservices Lambda Functions WebSockets Pull Request A/B Testing Framework Predictive Analytics Great things never come from comfort zones.
+Multi-threading Logging Neural Networks Difficult roads often lead to beautiful destinations. Data Pipeline Docker Stay hungry, stay foolish.

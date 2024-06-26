@@ -28,3 +28,4 @@ Agile Optimization Multi-threading Don't be afraid to give up the good to go for
 Agile API Gateway If you can dream it, you can do it. Frontend The only way to do great work is to love what you do. Zero Downtime Deployment
 NLP Content Delivery Network Success is not in what you have, but who you are. Virtual Machines Simplicity is the ultimate sophistication. Kubernetes API Gateway Python Event-driven Architecture Serverless Replica Set A/B Testing UX Optimization Load Balancing Microservices
 Agile Event Sourcing Database Indexing Server Response Difficult roads often lead to beautiful destinations. Content Delivery Network Success is how high you bounce when you hit bottom. OAuth Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it.
+API Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Python Data Science Cloud

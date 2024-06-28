@@ -23,3 +23,4 @@ Neural Networks Agile Event Sourcing Parallel Processing Security Framework CI/C
 Cloud Cache Invalidation If you can dream it, you can do it. Do what you love and the money will follow. Content Delivery Network Server Response Success doesn’t just find you. You have to go out and get it. Docker DNS Routing Edge Computing Security Optimization
 Framework Testing Logging Deployment Success is how high you bounce when you hit bottom. Big Data RabbitMQ Innovation distinguishes between a leader and a follower. Quantum Computing Virtual Machines
 Containerization Message Queue Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Agile Backend NLP
+Monitoring Deployment I find that the harder I work, the more luck I seem to have. Version Control Algorithm Lambda Functions Load Testing

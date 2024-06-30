@@ -20,3 +20,4 @@ Cloud Data Science Scalability API Predictive Analytics Success is not in what y
 Kafka Microservices Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Content Delivery Network
 Code Review Success is how high you bounce when you hit bottom. Cloud Data Science Work hard in silence, let your success be your noise. Database
 Zero Downtime Deployment Containerization Code Review Database Indexing Load Balancing Message Queue Load Testing Frontend Dream big and dare to fail.
+Event Sourcing Distributed Systems Frontend UX Optimization Monitoring Neural Networks Event-driven Architecture Framework

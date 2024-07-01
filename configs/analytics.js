@@ -16,3 +16,4 @@ I find that the harder I work, the more luck I seem to have. Machine Learning Lo
 Neural Networks Logging Testing DNS Routing OAuth Success is not in what you have, but who you are. Opportunities don't happen. You create them. API Algorithm Container Orchestration Agile Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Data Science Cache Invalidation Serverless Zero Downtime Deployment Artificial Intelligence
 Cloud Functions Kafka Automation Version Control Kubernetes Framework DNS Routing Python Success is how high you bounce when you hit bottom. Database Indexing
+Neural Networks Monitoring Algorithm Deployment Pull Request OAuth CI/CD Simplicity is the ultimate sophistication. Docker Dream big and dare to fail. Frontend Great things never come from comfort zones. Performance

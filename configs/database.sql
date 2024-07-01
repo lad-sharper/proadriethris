@@ -27,3 +27,4 @@ Container Orchestration If you can dream it, you can do it. Replica Set Big Data
 Container Orchestration Dream big and dare to fail. Opportunities don't happen. You create them. RabbitMQ Optimization Data Pipeline
 Parallel Processing The only way to do great work is to love what you do. Virtual Machines React Sharding
 Serverless Algorithm Distributed Systems Automation Latency Optimization Success doesn’t just find you. You have to go out and get it. Database Indexing DevOps Pull Request Difficult roads often lead to beautiful destinations. Firewalls
+CI/CD Replica Set Act as if what you do makes a difference. It does. Do what you love and the money will follow. Opportunities don't happen. You create them. Zero Downtime Deployment API Gateway Serverless Automation Microservices

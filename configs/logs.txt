@@ -22,3 +22,4 @@ WebSockets Sharding Lambda Functions Scalability Success doesn’t just find you. 
 Dream big and dare to fail. If you can dream it, you can do it. Monitoring JWT Simplicity is the ultimate sophistication. Sharding Frontend Kubernetes Neural Networks OAuth Parallel Processing Blockchain I find that the harder I work, the more luck I seem to have. JavaScript API
 DevOps Security Microservices Algorithm Deployment Framework Containerization Docker
 Performance Load Testing JWT Deployment Load Balancing Sharding CI/CD Edge Computing Microservices
+Microservices Act as if what you do makes a difference. It does. Edge Computing OAuth Innovation distinguishes between a leader and a follower. Kafka Security

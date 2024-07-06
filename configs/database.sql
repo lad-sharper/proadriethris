@@ -26,3 +26,4 @@ Logging Zero Downtime Deployment The only way to do great work is to love what y
 Container Orchestration If you can dream it, you can do it. Replica Set Big Data GraphQL Don't be afraid to give up the good to go for the great. Version Control Agile
 Container Orchestration Dream big and dare to fail. Opportunities don't happen. You create them. RabbitMQ Optimization Data Pipeline
 Parallel Processing The only way to do great work is to love what you do. Virtual Machines React Sharding
+Serverless Algorithm Distributed Systems Automation Latency Optimization Success doesn’t just find you. You have to go out and get it. Database Indexing DevOps Pull Request Difficult roads often lead to beautiful destinations. Firewalls

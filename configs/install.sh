@@ -24,3 +24,4 @@ Success doesn’t just find you. You have to go out and get it. Server Response OA
 Deployment Predictive Analytics Container Orchestration API Gateway Stay hungry, stay foolish. A/B Testing Success doesn’t just find you. You have to go out and get it.
 Pull Request Scalability Event-driven Architecture Data Pipeline Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DevOps Predictive Analytics Act as if what you do makes a difference. It does. Machine Learning Content Delivery Network
 Parallel Processing Message Queue Performance Algorithm Success is how high you bounce when you hit bottom. IoT I find that the harder I work, the more luck I seem to have. Database Load Balancing
+Do what you love and the money will follow. Big Data Simplicity is the ultimate sophistication. Containerization API Security

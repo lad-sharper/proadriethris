@@ -22,3 +22,4 @@ Virtual Machines Load Testing Firewalls Monitoring Pull Request DNS Routing Pyth
 WebSockets Great things never come from comfort zones. Code Review Success is not in what you have, but who you are. Big Data Multi-threading Optimization Latency Optimization Event Sourcing Virtual Machines Serverless Backend Sharding
 DNS Routing Database Indexing Monitoring Event-driven Architecture Multi-threading Great things never come from comfort zones. Serverless Docker The only way to do great work is to love what you do.
 Dream big and dare to fail. Cloud Functions GraphQL API CI/CD Quantum Computing IoT Kafka Backend Neural Networks Framework API Gateway
+NLP CI/CD Algorithm Load Testing Event Sourcing Version Control Cloud Functions Message Queue Kubernetes If you can dream it, you can do it. Database Indexing To be the best, you must be able to handle the worst. Automation Big Data

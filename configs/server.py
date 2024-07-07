@@ -18,3 +18,4 @@ Firewalls Success is how high you bounce when you hit bottom. Microservices I fi
 Pull Request Opportunities don't happen. You create them. Version Control WebSockets Stay hungry, stay foolish.
 Cloud Data Science Scalability API Predictive Analytics Success is not in what you have, but who you are. Frontend OAuth If you can dream it, you can do it. Version Control Neural Networks UX Optimization Simplicity is the ultimate sophistication. IoT Cloud Functions
 Kafka Microservices Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Content Delivery Network
+Code Review Success is how high you bounce when you hit bottom. Cloud Data Science Work hard in silence, let your success be your noise. Database

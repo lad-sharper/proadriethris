@@ -25,3 +25,4 @@ Message Queue Don't be afraid to give up the good to go for the great. Success i
 Logging Zero Downtime Deployment The only way to do great work is to love what you do. Machine Learning Great things never come from comfort zones. Testing Difficult roads often lead to beautiful destinations. Neural Networks Blockchain Security
 Container Orchestration If you can dream it, you can do it. Replica Set Big Data GraphQL Don't be afraid to give up the good to go for the great. Version Control Agile
 Container Orchestration Dream big and dare to fail. Opportunities don't happen. You create them. RabbitMQ Optimization Data Pipeline
+Parallel Processing The only way to do great work is to love what you do. Virtual Machines React Sharding

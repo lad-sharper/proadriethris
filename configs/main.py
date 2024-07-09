@@ -14,3 +14,4 @@ Optimization Message Queue Version Control Pull Request Innovation distinguishes
 Pull Request Backend Framework Sharding Replica Set Simplicity is the ultimate sophistication. Content Delivery Network Event-driven Architecture To be the best, you must be able to handle the worst.
 Blockchain Dream big and dare to fail. Artificial Intelligence Virtual Machines Sharding Database API Distributed Systems
 Work hard in silence, let your success be your noise. Docker Success is how high you bounce when you hit bottom. Cache Invalidation Multi-threading
+Quantum Computing Backend Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Containerization Sharding React Artificial Intelligence NLP Work hard in silence, let your success be your noise. Dream big and dare to fail. WebSockets Content Delivery Network

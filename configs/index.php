@@ -16,3 +16,4 @@ Success is not in what you have, but who you are. Sharding API Cache Invalidatio
 Do what you love and the money will follow. Cache Invalidation Optimization To be the best, you must be able to handle the worst. Neural Networks Containerization
 To be the best, you must be able to handle the worst. Load Testing Artificial Intelligence Database Great things never come from comfort zones. Data Pipeline Event-driven Architecture
 Optimization Quantum Computing Kafka Content Delivery Network Code Review Cloud Functions
+Kafka Performance Big Data Blockchain Edge Computing API Gateway IoT

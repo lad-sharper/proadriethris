@@ -31,3 +31,4 @@ Zero Downtime Deployment Deployment Serverless Dream big and dare to fail. Messa
 Artificial Intelligence Data Science Great things never come from comfort zones. API Happiness is not something ready made. It comes from your own actions.
 Load Balancing Docker Act as if what you do makes a difference. It does. UX Optimization JavaScript Virtual Machines I find that the harder I work, the more luck I seem to have. Lambda Functions API Parallel Processing Distributed Systems Latency Optimization
 Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. JavaScript API Load Testing
+CI/CD Great things never come from comfort zones. Pull Request Act as if what you do makes a difference. It does. Optimization Deployment Do what you love and the money will follow. Cloud Python I find that the harder I work, the more luck I seem to have. Distributed Systems WebSockets Message Queue Latency Optimization Replica Set

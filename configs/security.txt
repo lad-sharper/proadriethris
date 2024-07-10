@@ -14,3 +14,4 @@ Algorithm NLP Don't be afraid to give up the good to go for the great. Testing N
 CI/CD IoT Cloud JavaScript Server Response Zero Downtime Deployment API
 Work hard in silence, let your success be your noise. DNS Routing Microservices UX Optimization Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Security Backend Data Science OAuth Performance Message Queue I find that the harder I work, the more luck I seem to have. Python Virtual Machines
 React GraphQL Cloud Serverless Agile Parallel Processing RabbitMQ To be the best, you must be able to handle the worst. Data Pipeline Database Indexing A/B Testing Performance Version Control
+Replica Set Algorithm Sharding Don't be afraid to give up the good to go for the great. Neural Networks Cloud Event Sourcing Load Balancing IoT

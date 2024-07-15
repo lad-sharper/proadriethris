@@ -22,3 +22,4 @@ Algorithm Blockchain Big Data I find that the harder I work, the more luck I see
 Latency Optimization Database Indexing Firewalls Predictive Analytics Load Testing Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. Server Response OAuth Replica Set Latency Optimization Database Indexing Zero Downtime Deployment
 Deployment Predictive Analytics Container Orchestration API Gateway Stay hungry, stay foolish. A/B Testing Success doesn’t just find you. You have to go out and get it.
+Pull Request Scalability Event-driven Architecture Data Pipeline Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DevOps Predictive Analytics Act as if what you do makes a difference. It does. Machine Learning Content Delivery Network

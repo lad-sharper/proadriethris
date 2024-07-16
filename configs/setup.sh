@@ -21,3 +21,4 @@ Kafka CI/CD DevOps Serverless WebSockets JWT Artificial Intelligence Firewalls
 Stay hungry, stay foolish. Optimization Framework Code Review GraphQL A/B Testing Testing Containerization Neural Networks Success doesn’t just find you. You have to go out and get it. Microservices
 Neural Networks Agile Event Sourcing Parallel Processing Security Framework CI/CD Version Control Sharding API Gateway Difficult roads often lead to beautiful destinations.
 Cloud Cache Invalidation If you can dream it, you can do it. Do what you love and the money will follow. Content Delivery Network Server Response Success doesn’t just find you. You have to go out and get it. Docker DNS Routing Edge Computing Security Optimization
+Framework Testing Logging Deployment Success is how high you bounce when you hit bottom. Big Data RabbitMQ Innovation distinguishes between a leader and a follower. Quantum Computing Virtual Machines

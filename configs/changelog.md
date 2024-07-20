@@ -18,3 +18,4 @@ Kubernetes Data Science Virtual Machines Serverless Artificial Intelligence DNS 
 Python Sharding Version Control Lambda Functions Cloud Functions Success is how high you bounce when you hit bottom. WebSockets Zero Downtime Deployment API Frontend
 Content Delivery Network If you can dream it, you can do it. Server Response The only way to do great work is to love what you do. Virtual Machines Container Orchestration Blockchain Kafka Predictive Analytics Scalability Backend Neural Networks
 Agile Dream big and dare to fail. Great things never come from comfort zones. Scalability Load Testing Testing JavaScript I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Python Event-driven Architecture Containerization Kafka Sharding API
+React Cloud Cache Invalidation Monitoring DevOps JWT Kafka Agile Big Data Do what you love and the money will follow. Lambda Functions

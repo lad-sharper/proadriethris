@@ -21,3 +21,4 @@ Cloud Success doesn’t just find you. You have to go out and get it. Latency Opti
 WebSockets Sharding Lambda Functions Scalability Success doesn’t just find you. You have to go out and get it. Neural Networks Work hard in silence, let your success be your noise.
 Dream big and dare to fail. If you can dream it, you can do it. Monitoring JWT Simplicity is the ultimate sophistication. Sharding Frontend Kubernetes Neural Networks OAuth Parallel Processing Blockchain I find that the harder I work, the more luck I seem to have. JavaScript API
 DevOps Security Microservices Algorithm Deployment Framework Containerization Docker
+Performance Load Testing JWT Deployment Load Balancing Sharding CI/CD Edge Computing Microservices

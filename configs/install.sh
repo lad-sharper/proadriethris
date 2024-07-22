@@ -21,3 +21,4 @@ Work hard in silence, let your success be your noise. Load Balancing Do what you
 Algorithm Blockchain Big Data I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Database Framework Firewalls DNS Routing GraphQL Simplicity is the ultimate sophistication. RabbitMQ Automation Artificial Intelligence Virtual Machines
 Latency Optimization Database Indexing Firewalls Predictive Analytics Load Testing Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. Server Response OAuth Replica Set Latency Optimization Database Indexing Zero Downtime Deployment
+Deployment Predictive Analytics Container Orchestration API Gateway Stay hungry, stay foolish. A/B Testing Success doesn’t just find you. You have to go out and get it.

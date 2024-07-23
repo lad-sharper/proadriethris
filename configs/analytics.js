@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. Message Queue WebSockets C
 Version Control Load Testing Event-driven Architecture CI/CD Database Indexing
 I find that the harder I work, the more luck I seem to have. Machine Learning Load Balancing Containerization Distributed Systems To be the best, you must be able to handle the worst. A/B Testing WebSockets Deployment React Great things never come from comfort zones. RabbitMQ Predictive Analytics
 Neural Networks Logging Testing DNS Routing OAuth Success is not in what you have, but who you are. Opportunities don't happen. You create them. API Algorithm Container Orchestration Agile Happiness is not something ready made. It comes from your own actions. Latency Optimization
+Data Science Cache Invalidation Serverless Zero Downtime Deployment Artificial Intelligence

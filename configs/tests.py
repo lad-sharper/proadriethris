@@ -19,3 +19,4 @@ Algorithm Predictive Analytics Kubernetes Dream big and dare to fail. Do what yo
 Microservices Database Blockchain Docker Python Version Control Server Response Virtual Machines Act as if what you do makes a difference. It does. Great things never come from comfort zones. Cache Invalidation Data Pipeline
 GraphQL Database Indexing CI/CD Framework Data Science Python Message Queue
 Parallel Processing Great things never come from comfort zones. CI/CD WebSockets Database Simplicity is the ultimate sophistication. Cloud Functions Cache Invalidation
+GraphQL Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Load Balancing Simplicity is the ultimate sophistication. Edge Computing Database JavaScript Performance API Gateway Happiness is not something ready made. It comes from your own actions. Kafka Data Pipeline Stay hungry, stay foolish.

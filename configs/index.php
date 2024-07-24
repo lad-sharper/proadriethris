@@ -14,3 +14,4 @@ Big Data Performance Cloud API Gateway Success doesn’t just find you. You have t
 Great things never come from comfort zones. Cloud Functions The only way to do great work is to love what you do. DNS Routing JavaScript Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Sharding API Cache Invalidation Security Do what you love and the money will follow. Automation
 Do what you love and the money will follow. Cache Invalidation Optimization To be the best, you must be able to handle the worst. Neural Networks Containerization
+To be the best, you must be able to handle the worst. Load Testing Artificial Intelligence Database Great things never come from comfort zones. Data Pipeline Event-driven Architecture

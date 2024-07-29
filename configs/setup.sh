@@ -18,3 +18,4 @@ React Microservices Server Response RabbitMQ DevOps Monitoring Act as if what yo
 WebSockets Database Indexing Serverless Microservices Edge Computing Multi-threading If you can dream it, you can do it. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Agile API Gateway Distributed Systems Containerization Message Queue Optimization
 CI/CD Deployment Automation Microservices Event Sourcing Sharding Database Machine Learning Latency Optimization Docker Data Science Performance Kubernetes
 Kafka CI/CD DevOps Serverless WebSockets JWT Artificial Intelligence Firewalls
+Stay hungry, stay foolish. Optimization Framework Code Review GraphQL A/B Testing Testing Containerization Neural Networks Success doesn’t just find you. You have to go out and get it. Microservices

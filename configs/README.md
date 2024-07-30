@@ -29,3 +29,4 @@ Message Queue Act as if what you do makes a difference. It does. JWT Scalability
 Kubernetes If you can dream it, you can do it. Firewalls Frontend Cloud Functions Python Cache Invalidation RabbitMQ Blockchain
 Zero Downtime Deployment Deployment Serverless Dream big and dare to fail. Message Queue To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. DevOps DNS Routing Docker Database Indexing Optimization Algorithm
 Artificial Intelligence Data Science Great things never come from comfort zones. API Happiness is not something ready made. It comes from your own actions.
+Load Balancing Docker Act as if what you do makes a difference. It does. UX Optimization JavaScript Virtual Machines I find that the harder I work, the more luck I seem to have. Lambda Functions API Parallel Processing Distributed Systems Latency Optimization

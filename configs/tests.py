@@ -18,3 +18,4 @@ Zero Downtime Deployment Monitoring Artificial Intelligence To be the best, you 
 Algorithm Predictive Analytics Kubernetes Dream big and dare to fail. Do what you love and the money will follow. Data Pipeline Deployment Happiness is not something ready made. It comes from your own actions. Parallel Processing Database API Gateway Performance Innovation distinguishes between a leader and a follower.
 Microservices Database Blockchain Docker Python Version Control Server Response Virtual Machines Act as if what you do makes a difference. It does. Great things never come from comfort zones. Cache Invalidation Data Pipeline
 GraphQL Database Indexing CI/CD Framework Data Science Python Message Queue
+Parallel Processing Great things never come from comfort zones. CI/CD WebSockets Database Simplicity is the ultimate sophistication. Cloud Functions Cache Invalidation

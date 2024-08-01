@@ -20,3 +20,4 @@ Data Pipeline Distributed Systems API Innovation distinguishes between a leader 
 Success is how high you bounce when you hit bottom. API Gateway React CI/CD DevOps Artificial Intelligence
 Virtual Machines Load Testing Firewalls Monitoring Pull Request DNS Routing Python IoT Load Balancing Blockchain Microservices Docker Version Control OAuth
 WebSockets Great things never come from comfort zones. Code Review Success is not in what you have, but who you are. Big Data Multi-threading Optimization Latency Optimization Event Sourcing Virtual Machines Serverless Backend Sharding
+DNS Routing Database Indexing Monitoring Event-driven Architecture Multi-threading Great things never come from comfort zones. Serverless Docker The only way to do great work is to love what you do.

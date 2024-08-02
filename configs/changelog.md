@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Cloud Happiness is
 Logging Sharding Monitoring RabbitMQ Multi-threading Docker Performance IoT JWT Simplicity is the ultimate sophistication. Cloud Security
 Kubernetes Data Science Virtual Machines Serverless Artificial Intelligence DNS Routing Great things never come from comfort zones. API Data Pipeline Success is not in what you have, but who you are. Work hard in silence, let your success be your noise.
 Python Sharding Version Control Lambda Functions Cloud Functions Success is how high you bounce when you hit bottom. WebSockets Zero Downtime Deployment API Frontend
+Content Delivery Network If you can dream it, you can do it. Server Response The only way to do great work is to love what you do. Virtual Machines Container Orchestration Blockchain Kafka Predictive Analytics Scalability Backend Neural Networks

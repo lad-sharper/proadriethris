@@ -16,3 +16,4 @@ Containerization A/B Testing Container Orchestration Virtual Machines Innovation
 Kafka Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Sharding DNS Routing Great things never come from comfort zones. Pull Request
 Zero Downtime Deployment Monitoring Artificial Intelligence To be the best, you must be able to handle the worst. Predictive Analytics Containerization
 Algorithm Predictive Analytics Kubernetes Dream big and dare to fail. Do what you love and the money will follow. Data Pipeline Deployment Happiness is not something ready made. It comes from your own actions. Parallel Processing Database API Gateway Performance Innovation distinguishes between a leader and a follower.
+Microservices Database Blockchain Docker Python Version Control Server Response Virtual Machines Act as if what you do makes a difference. It does. Great things never come from comfort zones. Cache Invalidation Data Pipeline

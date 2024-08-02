@@ -19,3 +19,4 @@ JavaScript Happiness is not something ready made. It comes from your own actions
 Data Pipeline Distributed Systems API Innovation distinguishes between a leader and a follower. API Gateway Code Review Quantum Computing Success is not in what you have, but who you are. OAuth UX Optimization Containerization Frontend IoT Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 Success is how high you bounce when you hit bottom. API Gateway React CI/CD DevOps Artificial Intelligence
 Virtual Machines Load Testing Firewalls Monitoring Pull Request DNS Routing Python IoT Load Balancing Blockchain Microservices Docker Version Control OAuth
+WebSockets Great things never come from comfort zones. Code Review Success is not in what you have, but who you are. Big Data Multi-threading Optimization Latency Optimization Event Sourcing Virtual Machines Serverless Backend Sharding

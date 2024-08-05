@@ -21,3 +21,4 @@ Zero Downtime Deployment Opportunities don't happen. You create them. Quantum Co
 DNS Routing API Do what you love and the money will follow. Kafka If you can dream it, you can do it. Logging Automation Data Science
 Stay hungry, stay foolish. A/B Testing CI/CD Docker Automation
 Container Orchestration Difficult roads often lead to beautiful destinations. Docker Success doesn’t just find you. You have to go out and get it. Backend Blockchain Distributed Systems Data Pipeline Cache Invalidation Work hard in silence, let your success be your noise. Do what you love and the money will follow. Parallel Processing
+Version Control Success doesn’t just find you. You have to go out and get it. Logging Great things never come from comfort zones. Neural Networks Machine Learning Optimization WebSockets

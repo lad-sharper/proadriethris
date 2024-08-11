@@ -20,3 +20,4 @@ Work hard in silence, let your success be your noise. Microservices Kubernetes C
 Cloud Virtual Machines Python Quantum Computing Success usually comes to those who are too busy to be looking for it. Serverless The only way to do great work is to love what you do. Sharding CI/CD Scalability Server Response JWT
 Database Indexing Work hard in silence, let your success be your noise. Kafka Opportunities don't happen. You create them. If you can dream it, you can do it.
 Containerization Dream big and dare to fail. Scalability API Predictive Analytics Success is how high you bounce when you hit bottom. Logging Data Pipeline
+Opportunities don't happen. You create them. Data Pipeline Server Response Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Python Cloud Great things never come from comfort zones.

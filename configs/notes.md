@@ -19,3 +19,4 @@ Scalability Server Response GraphQL Act as if what you do makes a difference. It
 API Testing Python Neural Networks To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Parallel Processing UX Optimization
 Zero Downtime Deployment Opportunities don't happen. You create them. Quantum Computing Distributed Systems Container Orchestration
 DNS Routing API Do what you love and the money will follow. Kafka If you can dream it, you can do it. Logging Automation Data Science
+Stay hungry, stay foolish. A/B Testing CI/CD Docker Automation

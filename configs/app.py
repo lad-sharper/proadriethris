@@ -18,3 +18,4 @@ WebSockets Great things never come from comfort zones. Optimization Kubernetes J
 JavaScript Happiness is not something ready made. It comes from your own actions. Version Control Replica Set Testing Dream big and dare to fail. The only way to do great work is to love what you do. Pull Request
 Data Pipeline Distributed Systems API Innovation distinguishes between a leader and a follower. API Gateway Code Review Quantum Computing Success is not in what you have, but who you are. OAuth UX Optimization Containerization Frontend IoT Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.
 Success is how high you bounce when you hit bottom. API Gateway React CI/CD DevOps Artificial Intelligence
+Virtual Machines Load Testing Firewalls Monitoring Pull Request DNS Routing Python IoT Load Balancing Blockchain Microservices Docker Version Control OAuth

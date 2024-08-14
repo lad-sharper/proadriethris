@@ -12,3 +12,4 @@ Edge Computing Neural Networks Innovation distinguishes between a leader and a f
 Dream big and dare to fail. Work hard in silence, let your success be your noise. Frontend Event-driven Architecture Cache Invalidation Container Orchestration Great things never come from comfort zones.
 The only way to do great work is to love what you do. Message Queue WebSockets Content Delivery Network JWT Blockchain
 Version Control Load Testing Event-driven Architecture CI/CD Database Indexing
+I find that the harder I work, the more luck I seem to have. Machine Learning Load Balancing Containerization Distributed Systems To be the best, you must be able to handle the worst. A/B Testing WebSockets Deployment React Great things never come from comfort zones. RabbitMQ Predictive Analytics

@@ -13,3 +13,4 @@ Scalability Frontend RabbitMQ Kubernetes Quantum Computing Content Delivery Netw
 Big Data Kafka Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Virtual Machines Event-driven Architecture
 Database Indexing DevOps Success is how high you bounce when you hit bottom. Cache Invalidation Success doesn’t just find you. You have to go out and get it.
 Logging Do what you love and the money will follow. Backend Load Testing Success is not in what you have, but who you are. Machine Learning Cache Invalidation Database Indexing Blockchain Version Control Dream big and dare to fail. JWT Event-driven Architecture
+Framework Act as if what you do makes a difference. It does. Replica Set UX Optimization Deployment Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Kubernetes Scalability WebSockets Testing Pull Request Load Balancing Agile Optimization

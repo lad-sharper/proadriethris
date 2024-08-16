@@ -14,3 +14,4 @@ Code Review CI/CD Kafka Data Pipeline Distributed Systems Database JWT Work hard
 Great things never come from comfort zones. Logging Innovation distinguishes between a leader and a follower. DNS Routing React Algorithm Blockchain Cloud
 Success doesn’t just find you. You have to go out and get it. Cloud Happiness is not something ready made. It comes from your own actions. Big Data NLP
 Logging Sharding Monitoring RabbitMQ Multi-threading Docker Performance IoT JWT Simplicity is the ultimate sophistication. Cloud Security
+Kubernetes Data Science Virtual Machines Serverless Artificial Intelligence DNS Routing Great things never come from comfort zones. API Data Pipeline Success is not in what you have, but who you are. Work hard in silence, let your success be your noise.

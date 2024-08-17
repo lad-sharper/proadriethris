@@ -27,3 +27,4 @@ Code Review Edge Computing Logging To be the best, you must be able to handle th
 Event-driven Architecture Dream big and dare to fail. Do what you love and the money will follow. Content Delivery Network Work hard in silence, let your success be your noise. Kafka Serverless Success doesn’t just find you. You have to go out and get it.
 Message Queue Act as if what you do makes a difference. It does. JWT Scalability Version Control Kafka JavaScript Optimization
 Kubernetes If you can dream it, you can do it. Firewalls Frontend Cloud Functions Python Cache Invalidation RabbitMQ Blockchain
+Zero Downtime Deployment Deployment Serverless Dream big and dare to fail. Message Queue To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. DevOps DNS Routing Docker Database Indexing Optimization Algorithm

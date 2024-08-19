@@ -19,3 +19,4 @@ Opportunities don't happen. You create them. Frontend Latency Optimization Succe
 Work hard in silence, let your success be your noise. Microservices Kubernetes Code Review Success is not in what you have, but who you are. Message Queue Dream big and dare to fail. Cloud Functions React UX Optimization RabbitMQ Multi-threading
 Cloud Virtual Machines Python Quantum Computing Success usually comes to those who are too busy to be looking for it. Serverless The only way to do great work is to love what you do. Sharding CI/CD Scalability Server Response JWT
 Database Indexing Work hard in silence, let your success be your noise. Kafka Opportunities don't happen. You create them. If you can dream it, you can do it.
+Containerization Dream big and dare to fail. Scalability API Predictive Analytics Success is how high you bounce when you hit bottom. Logging Data Pipeline

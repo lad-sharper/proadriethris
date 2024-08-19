@@ -18,3 +18,4 @@ Scalability Big Data Code Review Cloud Functions Agile Database Indexing
 Scalability Server Response GraphQL Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
 API Testing Python Neural Networks To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Parallel Processing UX Optimization
 Zero Downtime Deployment Opportunities don't happen. You create them. Quantum Computing Distributed Systems Container Orchestration
+DNS Routing API Do what you love and the money will follow. Kafka If you can dream it, you can do it. Logging Automation Data Science

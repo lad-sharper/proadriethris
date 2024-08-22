@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Optimization Do what you l
 If you can dream it, you can do it. Firewalls Latency Optimization Edge Computing Pull Request Distributed Systems Dream big and dare to fail. Database Algorithm
 WebSockets Great things never come from comfort zones. Optimization Kubernetes JavaScript Security Backend Scalability IoT
 JavaScript Happiness is not something ready made. It comes from your own actions. Version Control Replica Set Testing Dream big and dare to fail. The only way to do great work is to love what you do. Pull Request
+Data Pipeline Distributed Systems API Innovation distinguishes between a leader and a follower. API Gateway Code Review Quantum Computing Success is not in what you have, but who you are. OAuth UX Optimization Containerization Frontend IoT Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.

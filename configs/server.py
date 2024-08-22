@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Container Orchestration Me
 Scalability Frontend RabbitMQ Kubernetes Quantum Computing Content Delivery Network Simplicity is the ultimate sophistication. Database Data Science Docker Lambda Functions Algorithm React Success is not in what you have, but who you are.
 Big Data Kafka Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Virtual Machines Event-driven Architecture
 Database Indexing DevOps Success is how high you bounce when you hit bottom. Cache Invalidation Success doesn’t just find you. You have to go out and get it.
+Logging Do what you love and the money will follow. Backend Load Testing Success is not in what you have, but who you are. Machine Learning Cache Invalidation Database Indexing Blockchain Version Control Dream big and dare to fail. JWT Event-driven Architecture

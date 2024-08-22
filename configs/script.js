@@ -23,3 +23,4 @@ Parallel Processing DevOps Virtual Machines Work hard in silence, let your succe
 Happiness is not something ready made. It comes from your own actions. WebSockets Sharding Artificial Intelligence Blockchain Scalability JWT Firewalls Quantum Computing Microservices Message Queue Security
 Frontend Distributed Systems Neural Networks Server Response Security
 Framework Monitoring Automation I find that the harder I work, the more luck I seem to have. Code Review Act as if what you do makes a difference. It does. Firewalls Work hard in silence, let your success be your noise. Cloud Innovation distinguishes between a leader and a follower. Lambda Functions
+Stay hungry, stay foolish. DNS Routing Container Orchestration DevOps Distributed Systems Code Review WebSockets Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Data Science Serverless JavaScript Frontend GraphQL Innovation distinguishes between a leader and a follower.

@@ -26,3 +26,4 @@ Simplicity is the ultimate sophistication. Docker NLP Cache Invalidation Logging
 Code Review Edge Computing Logging To be the best, you must be able to handle the worst. Content Delivery Network Data Pipeline Backend Zero Downtime Deployment OAuth Happiness is not something ready made. It comes from your own actions. API Data Science
 Event-driven Architecture Dream big and dare to fail. Do what you love and the money will follow. Content Delivery Network Work hard in silence, let your success be your noise. Kafka Serverless Success doesn’t just find you. You have to go out and get it.
 Message Queue Act as if what you do makes a difference. It does. JWT Scalability Version Control Kafka JavaScript Optimization
+Kubernetes If you can dream it, you can do it. Firewalls Frontend Cloud Functions Python Cache Invalidation RabbitMQ Blockchain

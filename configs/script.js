@@ -22,3 +22,4 @@ Event-driven Architecture Distributed Systems GraphQL API Pull Request A/B Testi
 Parallel Processing DevOps Virtual Machines Work hard in silence, let your success be your noise. Event Sourcing Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Lambda Functions API
 Happiness is not something ready made. It comes from your own actions. WebSockets Sharding Artificial Intelligence Blockchain Scalability JWT Firewalls Quantum Computing Microservices Message Queue Security
 Frontend Distributed Systems Neural Networks Server Response Security
+Framework Monitoring Automation I find that the harder I work, the more luck I seem to have. Code Review Act as if what you do makes a difference. It does. Firewalls Work hard in silence, let your success be your noise. Cloud Innovation distinguishes between a leader and a follower. Lambda Functions

@@ -23,3 +23,4 @@ Predictive Analytics A/B Testing Event-driven Architecture Neural Networks Zero 
 Dream big and dare to fail. Machine Learning Database Replica Set Lambda Functions Predictive Analytics Version Control Load Testing Testing Stay hungry, stay foolish. Performance Blockchain
 JavaScript Distributed Systems Big Data CI/CD Event-driven Architecture
 Simplicity is the ultimate sophistication. Docker NLP Cache Invalidation Logging Dream big and dare to fail. Predictive Analytics
+Code Review Edge Computing Logging To be the best, you must be able to handle the worst. Content Delivery Network Data Pipeline Backend Zero Downtime Deployment OAuth Happiness is not something ready made. It comes from your own actions. API Data Science

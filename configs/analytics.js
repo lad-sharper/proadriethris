@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Logging Success is not in wh
 Container Orchestration Algorithm DNS Routing Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Work hard in silence, let your success be your noise. Machine Learning Database Indexing GraphQL Blockchain
 JWT Machine Learning Performance Event-driven Architecture Database Indexing OAuth
 Edge Computing Neural Networks Innovation distinguishes between a leader and a follower. Backend CI/CD Logging RabbitMQ Server Response Content Delivery Network
+Dream big and dare to fail. Work hard in silence, let your success be your noise. Frontend Event-driven Architecture Cache Invalidation Container Orchestration Great things never come from comfort zones.

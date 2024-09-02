@@ -12,3 +12,4 @@ Framework Scalability RabbitMQ Edge Computing Don't be afraid to give up the goo
 Great things never come from comfort zones. Database Kubernetes Message Queue NLP DNS Routing Cache Invalidation Cloud Functions DevOps Data Science
 Optimization Message Queue Version Control Pull Request Innovation distinguishes between a leader and a follower. Machine Learning
 Pull Request Backend Framework Sharding Replica Set Simplicity is the ultimate sophistication. Content Delivery Network Event-driven Architecture To be the best, you must be able to handle the worst.
+Blockchain Dream big and dare to fail. Artificial Intelligence Virtual Machines Sharding Database API Distributed Systems

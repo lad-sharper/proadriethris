@@ -11,3 +11,4 @@ Do what you love and the money will follow. Kafka Simplicity is the ultimate sop
 Framework Scalability RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. NLP Happiness is not something ready made. It comes from your own actions.
 Great things never come from comfort zones. Database Kubernetes Message Queue NLP DNS Routing Cache Invalidation Cloud Functions DevOps Data Science
 Optimization Message Queue Version Control Pull Request Innovation distinguishes between a leader and a follower. Machine Learning
+Pull Request Backend Framework Sharding Replica Set Simplicity is the ultimate sophistication. Content Delivery Network Event-driven Architecture To be the best, you must be able to handle the worst.

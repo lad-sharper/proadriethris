@@ -11,3 +11,4 @@ Scalability CI/CD Lambda Functions Don't be afraid to give up the good to go for
 Difficult roads often lead to beautiful destinations. Container Orchestration Message Queue Virtual Machines Load Testing Deployment React Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Parallel Processing The only way to do great work is to love what you do. Containerization
 Scalability Frontend RabbitMQ Kubernetes Quantum Computing Content Delivery Network Simplicity is the ultimate sophistication. Database Data Science Docker Lambda Functions Algorithm React Success is not in what you have, but who you are.
 Big Data Kafka Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Virtual Machines Event-driven Architecture
+Database Indexing DevOps Success is how high you bounce when you hit bottom. Cache Invalidation Success doesn’t just find you. You have to go out and get it.

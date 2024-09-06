@@ -14,3 +14,4 @@ Multi-threading WebSockets Don't be afraid to give up the good to go for the gre
 Logging Firewalls Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Database GraphQL Version Control A/B Testing
 The only way to do great work is to love what you do. Optimization Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. CI/CD Don't be afraid to give up the good to go for the great. Multi-threading Microservices Innovation distinguishes between a leader and a follower. Container Orchestration OAuth Serverless Virtual Machines Lambda Functions
 If you can dream it, you can do it. Firewalls Latency Optimization Edge Computing Pull Request Distributed Systems Dream big and dare to fail. Database Algorithm
+WebSockets Great things never come from comfort zones. Optimization Kubernetes JavaScript Security Backend Scalability IoT

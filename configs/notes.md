@@ -15,3 +15,4 @@ Dream big and dare to fail. Innovation distinguishes between a leader and a foll
 Kafka Success is how high you bounce when you hit bottom. Algorithm Predictive Analytics Do what you love and the money will follow. Testing Don't be afraid to give up the good to go for the great. JWT Load Balancing Python Difficult roads often lead to beautiful destinations.
 A/B Testing Sharding The only way to do great work is to love what you do. Version Control Success is how high you bounce when you hit bottom. GraphQL Docker To be the best, you must be able to handle the worst. Testing
 Scalability Big Data Code Review Cloud Functions Agile Database Indexing
+Scalability Server Response GraphQL Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.

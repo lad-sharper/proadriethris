@@ -12,3 +12,4 @@ Security Message Queue Deployment Big Data Work hard in silence, let your succes
 Database Indexing API Gateway Sharding Great things never come from comfort zones. To be the best, you must be able to handle the worst. Server Response Artificial Intelligence Deployment NLP Container Orchestration Content Delivery Network Framework Docker Testing Cache Invalidation
 Security GraphQL Virtual Machines Machine Learning Serverless Distributed Systems Frontend
 OAuth Container Orchestration Cache Invalidation Microservices Zero Downtime Deployment DNS Routing Python Success doesn’t just find you. You have to go out and get it. Data Science Server Response Distributed Systems Event Sourcing
+Distributed Systems Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Cloud Parallel Processing Python

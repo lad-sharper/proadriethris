@@ -12,3 +12,4 @@ Optimization Cloud DevOps Lambda Functions Python Docker NLP Algorithm Do what y
 Database Don't be afraid to give up the good to go for the great. Cloud A/B Testing Artificial Intelligence JWT API Content Delivery Network Docker Great things never come from comfort zones. Event Sourcing
 Algorithm NLP Don't be afraid to give up the good to go for the great. Testing Neural Networks The only way to do great work is to love what you do. Backend Latency Optimization Lambda Functions Replica Set Microservices Event-driven Architecture Server Response
 CI/CD IoT Cloud JavaScript Server Response Zero Downtime Deployment API
+Work hard in silence, let your success be your noise. DNS Routing Microservices UX Optimization Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Security Backend Data Science OAuth Performance Message Queue I find that the harder I work, the more luck I seem to have. Python Virtual Machines

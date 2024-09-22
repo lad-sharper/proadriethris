@@ -13,3 +13,4 @@ Kubernetes Success is how high you bounce when you hit bottom. Event-driven Arch
 Algorithm Innovation distinguishes between a leader and a follower. Content Delivery Network RabbitMQ Cloud Functions Multi-threading Optimization Firewalls To be the best, you must be able to handle the worst. Data Science
 Cloud Functions Neural Networks Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Distributed Systems Agile Containerization
 Success is not in what you have, but who you are. Edge Computing Database Data Pipeline Success doesn’t just find you. You have to go out and get it. React Cloud DNS Routing Content Delivery Network I find that the harder I work, the more luck I seem to have. Virtual Machines Cloud Functions
+Difficult roads often lead to beautiful destinations. Performance Edge Computing Agile Dream big and dare to fail.

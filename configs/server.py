@@ -9,3 +9,4 @@ Security Server Response Distributed Systems Kafka Container Orchestration Virtu
 Framework Data Science WebSockets IoT Happiness is not something ready made. It comes from your own actions. Neural Networks Server Response Pull Request
 Scalability CI/CD Lambda Functions Don't be afraid to give up the good to go for the great. Algorithm Event-driven Architecture API Gateway
 Difficult roads often lead to beautiful destinations. Container Orchestration Message Queue Virtual Machines Load Testing Deployment React Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Parallel Processing The only way to do great work is to love what you do. Containerization
+Scalability Frontend RabbitMQ Kubernetes Quantum Computing Content Delivery Network Simplicity is the ultimate sophistication. Database Data Science Docker Lambda Functions Algorithm React Success is not in what you have, but who you are.

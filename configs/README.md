@@ -20,3 +20,4 @@ Python Success is how high you bounce when you hit bottom. Great things never co
 Kafka Zero Downtime Deployment GraphQL Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. OAuth RabbitMQ Blockchain Work hard in silence, let your success be your noise. Predictive Analytics Cloud Functions Testing Event Sourcing A/B Testing
 Code Review OAuth Optimization Security Frontend Simplicity is the ultimate sophistication.
 Predictive Analytics A/B Testing Event-driven Architecture Neural Networks Zero Downtime Deployment Framework
+Dream big and dare to fail. Machine Learning Database Replica Set Lambda Functions Predictive Analytics Version Control Load Testing Testing Stay hungry, stay foolish. Performance Blockchain

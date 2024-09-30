@@ -12,3 +12,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 Sharding Zero Downtime Deployment Work hard in silence, let your success be your noise. Pull Request Security Virtual Machines Parallel Processing API Happiness is not something ready made. It comes from your own actions. Algorithm Big Data
 Zero Downtime Deployment Predictive Analytics Event-driven Architecture Cloud Functions OAuth Data Science Serverless Microservices Database I find that the harder I work, the more luck I seem to have. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Neural Networks
 Version Control Firewalls DNS Routing Container Orchestration Testing Zero Downtime Deployment Security
+Happiness is not something ready made. It comes from your own actions. UX Optimization Edge Computing Predictive Analytics Great things never come from comfort zones. JavaScript Docker IoT Artificial Intelligence API

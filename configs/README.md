@@ -19,3 +19,4 @@ Scalability Optimization Backend Content Delivery Network Kubernetes RabbitMQ Do
 Python Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Distributed Systems Kubernetes Performance If you can dream it, you can do it. Act as if what you do makes a difference. It does. Server Response UX Optimization Message Queue Pull Request Database Indexing
 Kafka Zero Downtime Deployment GraphQL Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. OAuth RabbitMQ Blockchain Work hard in silence, let your success be your noise. Predictive Analytics Cloud Functions Testing Event Sourcing A/B Testing
 Code Review OAuth Optimization Security Frontend Simplicity is the ultimate sophistication.
+Predictive Analytics A/B Testing Event-driven Architecture Neural Networks Zero Downtime Deployment Framework

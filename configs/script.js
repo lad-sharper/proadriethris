@@ -17,3 +17,4 @@ A/B Testing Event-driven Architecture Don't be afraid to give up the good to go 
 Microservices Performance Backend Framework GraphQL Agile Logging Version Control CI/CD
 Content Delivery Network Cloud Functions Serverless Automation Success doesn’t just find you. You have to go out and get it. UX Optimization Latency Optimization Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Cloud Machine Learning API Big Data
 Pull Request I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Algorithm React Framework Load Testing Blockchain Scalability Security Predictive Analytics IoT Data Science
+Content Delivery Network WebSockets Simplicity is the ultimate sophistication. Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.

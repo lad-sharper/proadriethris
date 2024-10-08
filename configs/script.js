@@ -15,3 +15,4 @@ Zero Downtime Deployment Firewalls Don't be afraid to give up the good to go for
 Virtual Machines Quantum Computing Serverless Success is how high you bounce when you hit bottom. Server Response
 A/B Testing Event-driven Architecture Don't be afraid to give up the good to go for the great. Container Orchestration Great things never come from comfort zones. Load Testing Act as if what you do makes a difference. It does. Content Delivery Network API Docker Stay hungry, stay foolish. Deployment GraphQL Microservices
 Microservices Performance Backend Framework GraphQL Agile Logging Version Control CI/CD
+Content Delivery Network Cloud Functions Serverless Automation Success doesn’t just find you. You have to go out and get it. UX Optimization Latency Optimization Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Cloud Machine Learning API Big Data

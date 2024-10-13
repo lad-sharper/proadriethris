@@ -11,3 +11,4 @@ OAuth Version Control Predictive Analytics Frontend Success usually comes to tho
 API Data Science Cloud Functions Sharding To be the best, you must be able to handle the worst. Latency Optimization Zero Downtime Deployment Blockchain Frontend
 If you can dream it, you can do it. Do what you love and the money will follow. Agile Security Event Sourcing Version Control RabbitMQ Container Orchestration Cloud Frontend
 Machine Learning Simplicity is the ultimate sophistication. IoT Do what you love and the money will follow. Data Pipeline Frontend GraphQL Success usually comes to those who are too busy to be looking for it.
+Version Control The only way to do great work is to love what you do. Optimization Success is how high you bounce when you hit bottom. Frontend Monitoring Blockchain JWT Serverless Quantum Computing Kubernetes Pull Request Lambda Functions

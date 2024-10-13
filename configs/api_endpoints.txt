@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Container
 Cloud Functions Innovation distinguishes between a leader and a follower. WebSockets RabbitMQ Scalability OAuth CI/CD Message Queue API Gateway Lambda Functions Sharding Event-driven Architecture
 NLP Load Testing Agile Dream big and dare to fail. React IoT Automation Cloud Functions Success is how high you bounce when you hit bottom.
 Opportunities don't happen. You create them. Deployment Artificial Intelligence Sharding Load Testing If you can dream it, you can do it. DevOps RabbitMQ Framework Cache Invalidation Parallel Processing Microservices Machine Learning Frontend Work hard in silence, let your success be your noise.
+Algorithm Load Testing Performance DevOps Act as if what you do makes a difference. It does. Frontend Message Queue Backend IoT Cloud Functions Database Indexing Data Science Code Review I find that the harder I work, the more luck I seem to have. JWT

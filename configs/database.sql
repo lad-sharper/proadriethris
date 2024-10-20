@@ -13,3 +13,4 @@ Code Review Parallel Processing Act as if what you do makes a difference. It doe
 Cache Invalidation Zero Downtime Deployment Stay hungry, stay foolish. Parallel Processing DNS Routing
 JWT Security Performance UX Optimization The only way to do great work is to love what you do. API Content Delivery Network
 Automation Load Testing Edge Computing Multi-threading Replica Set Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Scalability If you can dream it, you can do it. Act as if what you do makes a difference. It does. JWT Difficult roads often lead to beautiful destinations. Firewalls API
+IoT Database Event-driven Architecture Logging Data Pipeline JavaScript Load Testing Automation Scalability Kafka

@@ -9,3 +9,4 @@ React A/B Testing RabbitMQ Success is not in what you have, but who you are. API
 Serverless Content Delivery Network Security Database Indexing To be the best, you must be able to handle the worst. Database
 Sharding Security Distributed Systems Optimization Blockchain
 Security Message Queue Deployment Big Data Work hard in silence, let your success be your noise. Multi-threading Backend Virtual Machines OAuth Optimization Kubernetes Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst.
+Database Indexing API Gateway Sharding Great things never come from comfort zones. To be the best, you must be able to handle the worst. Server Response Artificial Intelligence Deployment NLP Container Orchestration Content Delivery Network Framework Docker Testing Cache Invalidation

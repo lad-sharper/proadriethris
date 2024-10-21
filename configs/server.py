@@ -7,3 +7,4 @@ Kafka DevOps Great things never come from comfort zones. Docker Load Balancing C
 Success is not in what you have, but who you are. API Gateway CI/CD Do what you love and the money will follow. Kafka RabbitMQ
 Security Server Response Distributed Systems Kafka Container Orchestration Virtual Machines Containerization
 Framework Data Science WebSockets IoT Happiness is not something ready made. It comes from your own actions. Neural Networks Server Response Pull Request
+Scalability CI/CD Lambda Functions Don't be afraid to give up the good to go for the great. Algorithm Event-driven Architecture API Gateway

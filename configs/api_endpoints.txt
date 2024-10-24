@@ -8,3 +8,4 @@ IoT Predictive Analytics CI/CD RabbitMQ To be the best, you must be able to hand
 If you can dream it, you can do it. JWT Zero Downtime Deployment NLP Deployment Load Testing Cloud Functions Multi-threading JavaScript Container Orchestration Data Science RabbitMQ Success doesn’t just find you. You have to go out and get it.
 Happiness is not something ready made. It comes from your own actions. Container Orchestration WebSockets Stay hungry, stay foolish. Database Indexing API Machine Learning DevOps Virtual Machines Data Pipeline
 Cloud Functions Innovation distinguishes between a leader and a follower. WebSockets RabbitMQ Scalability OAuth CI/CD Message Queue API Gateway Lambda Functions Sharding Event-driven Architecture
+NLP Load Testing Agile Dream big and dare to fail. React IoT Automation Cloud Functions Success is how high you bounce when you hit bottom.

@@ -11,3 +11,4 @@ Code Review Testing Monitoring Success is how high you bounce when you hit botto
 Optimization Cloud DevOps Lambda Functions Python Docker NLP Algorithm Do what you love and the money will follow. Latency Optimization
 Database Don't be afraid to give up the good to go for the great. Cloud A/B Testing Artificial Intelligence JWT API Content Delivery Network Docker Great things never come from comfort zones. Event Sourcing
 Algorithm NLP Don't be afraid to give up the good to go for the great. Testing Neural Networks The only way to do great work is to love what you do. Backend Latency Optimization Lambda Functions Replica Set Microservices Event-driven Architecture Server Response
+CI/CD IoT Cloud JavaScript Server Response Zero Downtime Deployment API

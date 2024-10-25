@@ -9,3 +9,4 @@ OAuth Message Queue Stay hungry, stay foolish. Server Response Simplicity is the
 Serverless Neural Networks API Microservices Kubernetes Machine Learning Frontend Security Kafka Load Testing
 Data Science Do what you love and the money will follow. Sharding Scalability DNS Routing Machine Learning Kubernetes NLP Database Cloud Latency Optimization
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Agile DevOps Scalability Replica Set Parallel Processing
+Sharding Zero Downtime Deployment Work hard in silence, let your success be your noise. Pull Request Security Virtual Machines Parallel Processing API Happiness is not something ready made. It comes from your own actions. Algorithm Big Data

@@ -10,3 +10,4 @@ Big Data IoT Cloud Data Science Great things never come from comfort zones. UX O
 API Automation Edge Computing Frontend Serverless Optimization Event-driven Architecture Neural Networks Security
 WebSockets Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Version Control Artificial Intelligence DNS Routing Security Microservices Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
 Code Review Parallel Processing Act as if what you do makes a difference. It does. Microservices DNS Routing Success usually comes to those who are too busy to be looking for it. Database Indexing If you can dream it, you can do it.
+Cache Invalidation Zero Downtime Deployment Stay hungry, stay foolish. Parallel Processing DNS Routing

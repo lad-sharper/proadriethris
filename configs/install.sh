@@ -8,3 +8,4 @@ Testing Automation Monitoring Zero Downtime Deployment API Gateway Work hard in 
 Pull Request Load Testing CI/CD IoT Virtual Machines The only way to do great work is to love what you do. Data Pipeline GraphQL Monitoring Lambda Functions Message Queue Cloud Functions WebSockets OAuth DNS Routing
 DevOps Act as if what you do makes a difference. It does. Container Orchestration Latency Optimization Performance Multi-threading Innovation distinguishes between a leader and a follower.
 Monitoring Predictive Analytics Event-driven Architecture Edge Computing Testing Artificial Intelligence Load Balancing API Gateway Act as if what you do makes a difference. It does. Dream big and dare to fail. Security Latency Optimization
+JavaScript Success usually comes to those who are too busy to be looking for it. Automation Code Review API Monitoring Multi-threading A/B Testing Great things never come from comfort zones. Version Control DevOps

@@ -8,3 +8,4 @@ Logging The only way to do great work is to love what you do. CI/CD Docker Cloud
 Data Science Performance I find that the harder I work, the more luck I seem to have. JavaScript Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Latency Optimization Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise.
 Big Data IoT Cloud Data Science Great things never come from comfort zones. UX Optimization
 API Automation Edge Computing Frontend Serverless Optimization Event-driven Architecture Neural Networks Security
+WebSockets Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Version Control Artificial Intelligence DNS Routing Security Microservices Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.

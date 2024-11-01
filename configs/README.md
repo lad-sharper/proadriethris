@@ -12,3 +12,4 @@ Testing Event-driven Architecture GraphQL API Gateway JWT
 Message Queue Dream big and dare to fail. API Kubernetes Load Testing
 Frontend Server Response GraphQL Framework If you can dream it, you can do it. Deployment Data Science Microservices Data Pipeline API To be the best, you must be able to handle the worst.
 I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Load Testing API DevOps Distributed Systems RabbitMQ Docker Zero Downtime Deployment Backend Database Indexing React Difficult roads often lead to beautiful destinations. Database Machine Learning
+Success usually comes to those who are too busy to be looking for it. Edge Computing Blockchain React IoT Replica Set Load Testing Act as if what you do makes a difference. It does. Data Pipeline Logging Success is how high you bounce when you hit bottom.

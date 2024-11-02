@@ -10,3 +10,4 @@ Neural Networks Microservices Load Balancing Automation Logging Event-driven Arc
 Big Data Performance DevOps Do what you love and the money will follow. GraphQL Lambda Functions UX Optimization Opportunities don't happen. You create them.
 Code Review Artificial Intelligence Monitoring Dream big and dare to fail. Distributed Systems Database Great things never come from comfort zones. NLP Happiness is not something ready made. It comes from your own actions. Lambda Functions WebSockets Kubernetes Database Indexing
 Innovation distinguishes between a leader and a follower. Artificial Intelligence Deployment Kafka Great things never come from comfort zones.
+Code Review CI/CD Kafka Data Pipeline Distributed Systems Database JWT Work hard in silence, let your success be your noise. If you can dream it, you can do it. Docker Cloud Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DNS Routing

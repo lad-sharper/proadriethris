@@ -6,3 +6,4 @@ Code Review Algorithm Python JWT Performance Version Control Success doesn’t jus
 Containerization Security Serverless Message Queue Deployment
 Content Delivery Network JWT DevOps Algorithm Parallel Processing Logging Code Review
 API Algorithm Don't be afraid to give up the good to go for the great. Container Orchestration Load Testing Code Review Cache Invalidation Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Edge Computing
+JavaScript Docker Do what you love and the money will follow. Deployment Edge Computing Database Indexing GraphQL Quantum Computing Microservices Event-driven Architecture Code Review Serverless Load Testing Latency Optimization Server Response

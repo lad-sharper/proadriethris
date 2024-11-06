@@ -12,3 +12,4 @@ Load Balancing Agile API Don't be afraid to give up the good to go for the great
 Success doesn’t just find you. You have to go out and get it. DNS Routing API React Data Science Latency Optimization Frontend OAuth Deployment Testing IoT A/B Testing NLP Zero Downtime Deployment Load Balancing
 Load Testing JavaScript UX Optimization Logging Success usually comes to those who are too busy to be looking for it. Lambda Functions NLP Data Pipeline IoT
 Zero Downtime Deployment Firewalls Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Backend Security Virtual Machines Stay hungry, stay foolish. Act as if what you do makes a difference. It does.
+Virtual Machines Quantum Computing Serverless Success is how high you bounce when you hit bottom. Server Response

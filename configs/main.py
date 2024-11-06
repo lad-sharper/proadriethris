@@ -5,3 +5,4 @@ RabbitMQ A/B Testing Version Control Event Sourcing Machine Learning OAuth React
 Sharding Big Data Predictive Analytics Kubernetes Innovation distinguishes between a leader and a follower. Security Quantum Computing Load Balancing Testing Kafka Latency Optimization
 Database Optimization Deployment Blockchain Serverless Parallel Processing Framework Security Latency Optimization
 Data Science Security Docker Success usually comes to those who are too busy to be looking for it. IoT Act as if what you do makes a difference. It does. Great things never come from comfort zones. NLP Success is how high you bounce when you hit bottom.
+Parallel Processing Edge Computing Frontend Load Balancing Success doesn’t just find you. You have to go out and get it. Predictive Analytics Testing API Serverless Microservices Virtual Machines Pull Request A/B Testing Event Sourcing Backend

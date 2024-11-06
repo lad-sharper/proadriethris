@@ -14,3 +14,4 @@ Frontend Happiness is not something ready made. It comes from your own actions. 
 NLP DevOps Success is how high you bounce when you hit bottom. Python Success doesn’t just find you. You have to go out and get it. Replica Set DNS Routing Dream big and dare to fail. Machine Learning Kubernetes Monitoring Agile
 Lambda Functions Scalability Database Indexing Firewalls Difficult roads often lead to beautiful destinations. Deployment A/B Testing Simplicity is the ultimate sophistication. Machine Learning Work hard in silence, let your success be your noise. JavaScript Pull Request
 JWT Success doesn’t just find you. You have to go out and get it. Framework Python React Monitoring CI/CD Lambda Functions
+Artificial Intelligence Big Data Virtual Machines WebSockets Backend Simplicity is the ultimate sophistication. Database Dream big and dare to fail. Message Queue API Distributed Systems Server Response

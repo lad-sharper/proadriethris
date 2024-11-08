@@ -9,3 +9,4 @@ Frontend Innovation distinguishes between a leader and a follower. WebSockets Lo
 Neural Networks Microservices Load Balancing Automation Logging Event-driven Architecture IoT API Database Indexing Performance
 Big Data Performance DevOps Do what you love and the money will follow. GraphQL Lambda Functions UX Optimization Opportunities don't happen. You create them.
 Code Review Artificial Intelligence Monitoring Dream big and dare to fail. Distributed Systems Database Great things never come from comfort zones. NLP Happiness is not something ready made. It comes from your own actions. Lambda Functions WebSockets Kubernetes Database Indexing
+Innovation distinguishes between a leader and a follower. Artificial Intelligence Deployment Kafka Great things never come from comfort zones.

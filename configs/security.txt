@@ -10,3 +10,4 @@ Zero Downtime Deployment To be the best, you must be able to handle the worst. N
 Code Review Testing Monitoring Success is how high you bounce when you hit bottom. OAuth Microservices Load Balancing Artificial Intelligence React Serverless Big Data Performance Innovation distinguishes between a leader and a follower.
 Optimization Cloud DevOps Lambda Functions Python Docker NLP Algorithm Do what you love and the money will follow. Latency Optimization
 Database Don't be afraid to give up the good to go for the great. Cloud A/B Testing Artificial Intelligence JWT API Content Delivery Network Docker Great things never come from comfort zones. Event Sourcing
+Algorithm NLP Don't be afraid to give up the good to go for the great. Testing Neural Networks The only way to do great work is to love what you do. Backend Latency Optimization Lambda Functions Replica Set Microservices Event-driven Architecture Server Response

@@ -9,3 +9,4 @@ Frontend Load Balancing React Predictive Analytics Innovation distinguishes betw
 Zero Downtime Deployment To be the best, you must be able to handle the worst. NLP A/B Testing Artificial Intelligence JWT Quantum Computing Framework
 Code Review Testing Monitoring Success is how high you bounce when you hit bottom. OAuth Microservices Load Balancing Artificial Intelligence React Serverless Big Data Performance Innovation distinguishes between a leader and a follower.
 Optimization Cloud DevOps Lambda Functions Python Docker NLP Algorithm Do what you love and the money will follow. Latency Optimization
+Database Don't be afraid to give up the good to go for the great. Cloud A/B Testing Artificial Intelligence JWT API Content Delivery Network Docker Great things never come from comfort zones. Event Sourcing

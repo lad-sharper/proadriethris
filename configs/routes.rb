@@ -7,3 +7,4 @@ Python Backend React Containerization Success doesn’t just find you. You have to
 Message Queue Kubernetes Security Monitoring UX Optimization Containerization Code Review Firewalls API Quantum Computing
 OAuth Message Queue Stay hungry, stay foolish. Server Response Simplicity is the ultimate sophistication. Container Orchestration UX Optimization Load Balancing Edge Computing
 Serverless Neural Networks API Microservices Kubernetes Machine Learning Frontend Security Kafka Load Testing
+Data Science Do what you love and the money will follow. Sharding Scalability DNS Routing Machine Learning Kubernetes NLP Database Cloud Latency Optimization

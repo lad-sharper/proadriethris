@@ -10,3 +10,4 @@ Monitoring API Gateway Don't be afraid to give up the good to go for the great. 
 Docker DevOps Neural Networks Dream big and dare to fail. Backend Cloud Do what you love and the money will follow. Simplicity is the ultimate sophistication. JavaScript
 Load Balancing Agile API Don't be afraid to give up the good to go for the great. GraphQL
 Success doesn’t just find you. You have to go out and get it. DNS Routing API React Data Science Latency Optimization Frontend OAuth Deployment Testing IoT A/B Testing NLP Zero Downtime Deployment Load Balancing
+Load Testing JavaScript UX Optimization Logging Success usually comes to those who are too busy to be looking for it. Lambda Functions NLP Data Pipeline IoT

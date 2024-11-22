@@ -9,3 +9,4 @@ Database Data Science WebSockets Message Queue Work hard in silence, let your su
 Monitoring API Gateway Don't be afraid to give up the good to go for the great. Blockchain DevOps WebSockets DNS Routing Sharding Frontend Big Data Data Science CI/CD Parallel Processing UX Optimization Backend
 Docker DevOps Neural Networks Dream big and dare to fail. Backend Cloud Do what you love and the money will follow. Simplicity is the ultimate sophistication. JavaScript
 Load Balancing Agile API Don't be afraid to give up the good to go for the great. GraphQL
+Success doesn’t just find you. You have to go out and get it. DNS Routing API React Data Science Latency Optimization Frontend OAuth Deployment Testing IoT A/B Testing NLP Zero Downtime Deployment Load Balancing

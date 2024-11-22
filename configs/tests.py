@@ -7,3 +7,4 @@ Machine Learning Content Delivery Network Database Cloud Docker Automation Lambd
 Event-driven Architecture Pull Request Innovation distinguishes between a leader and a follower. OAuth If you can dream it, you can do it.
 Version Control Opportunities don't happen. You create them. JavaScript Load Testing API Machine Learning Simplicity is the ultimate sophistication. Pull Request Act as if what you do makes a difference. It does. JWT Message Queue Firewalls NLP Logging Database
 Python API Gateway Event-driven Architecture Sharding OAuth Database Dream big and dare to fail. Message Queue Work hard in silence, let your success be your noise. Algorithm Kubernetes Load Balancing Zero Downtime Deployment
+OAuth Version Control Predictive Analytics Frontend Success usually comes to those who are too busy to be looking for it. Lambda Functions Quantum Computing Innovation distinguishes between a leader and a follower. Optimization Message Queue

@@ -7,3 +7,4 @@ Quantum Computing Agile Neural Networks I find that the harder I work, the more 
 Serverless Event Sourcing Work hard in silence, let your success be your noise. Database Indexing Microservices Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Automation Frontend Load Balancing JavaScript
 React A/B Testing RabbitMQ Success is not in what you have, but who you are. API Gateway Great things never come from comfort zones. Microservices
 Serverless Content Delivery Network Security Database Indexing To be the best, you must be able to handle the worst. Database
+Sharding Security Distributed Systems Optimization Blockchain

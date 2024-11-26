@@ -9,3 +9,4 @@ Security Work hard in silence, let your success be your noise. Artificial Intell
 Simplicity is the ultimate sophistication. Multi-threading Kubernetes Replica Set Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Scalability Code Review If you can dream it, you can do it. IoT Cloud
 Message Queue Agile RabbitMQ Version Control Security Don't be afraid to give up the good to go for the great.
 Predictive Analytics Innovation distinguishes between a leader and a follower. Kafka Containerization Machine Learning Backend Agile
+Python Success is how high you bounce when you hit bottom. Monitoring Work hard in silence, let your success be your noise. Zero Downtime Deployment API Gateway Backend Logging Performance Quantum Computing Serverless Success usually comes to those who are too busy to be looking for it. Pull Request UX Optimization

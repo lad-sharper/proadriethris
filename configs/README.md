@@ -10,3 +10,4 @@ Pull Request Cloud Optimization Event-driven Architecture If you can dream it, y
 Success usually comes to those who are too busy to be looking for it. Serverless React Database Security Kubernetes Pull Request
 Testing Event-driven Architecture GraphQL API Gateway JWT
 Message Queue Dream big and dare to fail. API Kubernetes Load Testing
+Frontend Server Response GraphQL Framework If you can dream it, you can do it. Deployment Data Science Microservices Data Pipeline API To be the best, you must be able to handle the worst.

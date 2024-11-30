@@ -6,3 +6,4 @@ Docker Content Delivery Network Machine Learning Cloud Functions GraphQL Pull Re
 Multi-threading OAuth Framework Machine Learning Lambda Functions DNS Routing Neural Networks Edge Computing Success is how high you bounce when you hit bottom. Security React
 Containerization Scalability Backend Neural Networks DNS Routing Artificial Intelligence Logging Container Orchestration Success usually comes to those who are too busy to be looking for it. IoT Act as if what you do makes a difference. It does. Deployment Quantum Computing
 Cloud Artificial Intelligence JavaScript Load Testing Big Data Dream big and dare to fail. Do what you love and the money will follow. Performance
+Dream big and dare to fail. Server Response Simplicity is the ultimate sophistication. Lambda Functions To be the best, you must be able to handle the worst. Data Science

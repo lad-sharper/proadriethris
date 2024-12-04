@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. OAuth Version Contr
 Server Response Cache Invalidation Sharding Message Queue Cloud Functions RabbitMQ Lambda Functions Event-driven Architecture React Version Control WebSockets Cloud DNS Routing JavaScript JWT
 If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Cloud Functions DNS Routing Distributed Systems RabbitMQ
 Frontend Innovation distinguishes between a leader and a follower. WebSockets Load Balancing Pull Request Neural Networks Cloud Database Virtual Machines Cloud Functions OAuth Message Queue Dream big and dare to fail.
+Neural Networks Microservices Load Balancing Automation Logging Event-driven Architecture IoT API Database Indexing Performance

@@ -5,3 +5,4 @@ GraphQL Event Sourcing Replica Set Innovation distinguishes between a leader and
 Cloud Functions A/B Testing Distributed Systems IoT Machine Learning Event Sourcing Edge Computing Blockchain Neural Networks
 Success doesn’t just find you. You have to go out and get it. Neural Networks Message Queue Kubernetes WebSockets Stay hungry, stay foolish. Security DNS Routing Backend Data Science
 Success is not in what you have, but who you are. Server Response Big Data Quantum Computing Kafka Python Predictive Analytics Data Science Event Sourcing NLP
+Frontend Load Balancing React Predictive Analytics Innovation distinguishes between a leader and a follower. Code Review Kafka Zero Downtime Deployment Event-driven Architecture GraphQL

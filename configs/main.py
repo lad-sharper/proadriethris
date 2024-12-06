@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Code Review JavaScript Mon
 RabbitMQ A/B Testing Version Control Event Sourcing Machine Learning OAuth React
 Sharding Big Data Predictive Analytics Kubernetes Innovation distinguishes between a leader and a follower. Security Quantum Computing Load Balancing Testing Kafka Latency Optimization
 Database Optimization Deployment Blockchain Serverless Parallel Processing Framework Security Latency Optimization
+Data Science Security Docker Success usually comes to those who are too busy to be looking for it. IoT Act as if what you do makes a difference. It does. Great things never come from comfort zones. NLP Success is how high you bounce when you hit bottom.

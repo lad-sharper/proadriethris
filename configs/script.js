@@ -6,3 +6,4 @@ Testing Content Delivery Network Cache Invalidation Distributed Systems Version 
 Do what you love and the money will follow. Load Balancing Kubernetes Database Event-driven Architecture Automation Cloud Functions Data Pipeline Content Delivery Network Data Science Lambda Functions Success is not in what you have, but who you are. Code Review
 Edge Computing API Gateway Optimization Backend React
 Database Data Science WebSockets Message Queue Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Predictive Analytics GraphQL Stay hungry, stay foolish. Machine Learning The only way to do great work is to love what you do. RabbitMQ Performance API
+Monitoring API Gateway Don't be afraid to give up the good to go for the great. Blockchain DevOps WebSockets DNS Routing Sharding Frontend Big Data Data Science CI/CD Parallel Processing UX Optimization Backend

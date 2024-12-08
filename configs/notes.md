@@ -6,3 +6,4 @@ Event Sourcing Stay hungry, stay foolish. Data Pipeline Containerization Pull Re
 Container Orchestration Firewalls OAuth Frontend Innovation distinguishes between a leader and a follower. Logging Microservices GraphQL DevOps Multi-threading
 Work hard in silence, let your success be your noise. Quantum Computing Virtual Machines Simplicity is the ultimate sophistication. Parallel Processing DevOps Difficult roads often lead to beautiful destinations. Framework GraphQL Kafka Edge Computing
 Security Work hard in silence, let your success be your noise. Artificial Intelligence JWT Version Control Replica Set Monitoring Load Testing Agile Multi-threading Quantum Computing Edge Computing
+Simplicity is the ultimate sophistication. Multi-threading Kubernetes Replica Set Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Scalability Code Review If you can dream it, you can do it. IoT Cloud

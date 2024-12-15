@@ -5,3 +5,4 @@ Agile Security Happiness is not something ready made. It comes from your own act
 Server Response Kafka IoT If you can dream it, you can do it. Backend Agile Content Delivery Network CI/CD Containerization Microservices JavaScript Quantum Computing Load Testing Dream big and dare to fail.
 Machine Learning Content Delivery Network Database Cloud Docker Automation Lambda Functions If you can dream it, you can do it. Container Orchestration Happiness is not something ready made. It comes from your own actions. Deployment
 Event-driven Architecture Pull Request Innovation distinguishes between a leader and a follower. OAuth If you can dream it, you can do it.
+Version Control Opportunities don't happen. You create them. JavaScript Load Testing API Machine Learning Simplicity is the ultimate sophistication. Pull Request Act as if what you do makes a difference. It does. JWT Message Queue Firewalls NLP Logging Database

@@ -5,3 +5,4 @@ Version Control Event-driven Architecture Virtual Machines Optimization Neural N
 Testing Content Delivery Network Cache Invalidation Distributed Systems Version Control Firewalls Database Indexing Database Load Balancing IoT Stay hungry, stay foolish.
 Do what you love and the money will follow. Load Balancing Kubernetes Database Event-driven Architecture Automation Cloud Functions Data Pipeline Content Delivery Network Data Science Lambda Functions Success is not in what you have, but who you are. Code Review
 Edge Computing API Gateway Optimization Backend React
+Database Data Science WebSockets Message Queue Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Predictive Analytics GraphQL Stay hungry, stay foolish. Machine Learning The only way to do great work is to love what you do. RabbitMQ Performance API

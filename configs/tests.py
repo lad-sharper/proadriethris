@@ -4,3 +4,4 @@ DNS Routing Neural Networks Framework Sharding Success usually comes to those wh
 Agile Security Happiness is not something ready made. It comes from your own actions. Pull Request Monitoring Content Delivery Network Replica Set Database Indexing Message Queue WebSockets Automation Stay hungry, stay foolish. Logging Success is not in what you have, but who you are. IoT
 Server Response Kafka IoT If you can dream it, you can do it. Backend Agile Content Delivery Network CI/CD Containerization Microservices JavaScript Quantum Computing Load Testing Dream big and dare to fail.
 Machine Learning Content Delivery Network Database Cloud Docker Automation Lambda Functions If you can dream it, you can do it. Container Orchestration Happiness is not something ready made. It comes from your own actions. Deployment
+Event-driven Architecture Pull Request Innovation distinguishes between a leader and a follower. OAuth If you can dream it, you can do it.

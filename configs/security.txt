@@ -3,3 +3,4 @@ Event-driven Architecture Code Review Opportunities don't happen. You create the
 Big Data Replica Set Multi-threading Frontend Framework React Python Artificial Intelligence
 GraphQL Event Sourcing Replica Set Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Work hard in silence, let your success be your noise. Zero Downtime Deployment DNS Routing Frontend Predictive Analytics Security Deployment Simplicity is the ultimate sophistication. Database Indexing
 Cloud Functions A/B Testing Distributed Systems IoT Machine Learning Event Sourcing Edge Computing Blockchain Neural Networks
+Success doesn’t just find you. You have to go out and get it. Neural Networks Message Queue Kubernetes WebSockets Stay hungry, stay foolish. Security DNS Routing Backend Data Science

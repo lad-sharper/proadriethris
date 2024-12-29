@@ -4,3 +4,4 @@ A/B Testing Artificial Intelligence Monitoring Parallel Processing To be the bes
 Security Firewalls API Gateway Innovation distinguishes between a leader and a follower. Kafka Zero Downtime Deployment Load Balancing Optimization CI/CD Big Data
 Act as if what you do makes a difference. It does. Agile UX Optimization Firewalls Kubernetes WebSockets If you can dream it, you can do it. Scalability Load Testing Optimization React
 Quantum Computing Agile Neural Networks I find that the harder I work, the more luck I seem to have. API Gateway Backend
+Serverless Event Sourcing Work hard in silence, let your success be your noise. Database Indexing Microservices Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Automation Frontend Load Balancing JavaScript

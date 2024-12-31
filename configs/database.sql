@@ -3,3 +3,4 @@ Deployment NLP Simplicity is the ultimate sophistication. Data Pipeline Cloud Fu
 The only way to do great work is to love what you do. Container Orchestration Replica Set Event-driven Architecture Cloud Frontend OAuth Do what you love and the money will follow. Backend Success is how high you bounce when you hit bottom.
 Agile Logging If you can dream it, you can do it. Content Delivery Network Optimization Performance
 Containerization Artificial Intelligence Database I find that the harder I work, the more luck I seem to have. Cloud Functions
+API GraphQL Frontend Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Replica Set Data Science Version Control Don't be afraid to give up the good to go for the great. Message Queue Latency Optimization Success usually comes to those who are too busy to be looking for it. Event Sourcing The only way to do great work is to love what you do.

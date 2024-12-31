@@ -1,3 +1,4 @@
 A/B Testing Dream big and dare to fail. Simplicity is the ultimate sophistication. Load Testing Server Response Algorithm Firewalls
 Big Data Stay hungry, stay foolish. Database Indexing Load Testing Blockchain Frontend Security Testing
 Predictive Analytics Python Scalability Zero Downtime Deployment DNS Routing Event-driven Architecture JWT Replica Set Virtual Machines Monitoring Firewalls Stay hungry, stay foolish. DevOps Latency Optimization
+Agile Logging Latency Optimization Dream big and dare to fail. IoT Predictive Analytics API Gateway Data Pipeline Multi-threading Server Response Difficult roads often lead to beautiful destinations. Lambda Functions Algorithm Deployment

@@ -3,3 +3,4 @@ If you can dream it, you can do it. Great things never come from comfort zones. 
 Dream big and dare to fail. Server Response Security Load Balancing Cloud JWT DevOps Cloud Functions Deployment GraphQL Blockchain Stay hungry, stay foolish.
 I find that the harder I work, the more luck I seem to have. Virtual Machines Automation Success is not in what you have, but who you are. Data Science Version Control Framework Cloud Functions
 Event Sourcing Stay hungry, stay foolish. Data Pipeline Containerization Pull Request Frontend Work hard in silence, let your success be your noise. Cache Invalidation Dream big and dare to fail. Load Balancing Parallel Processing Neural Networks Security Message Queue The only way to do great work is to love what you do.
+Container Orchestration Firewalls OAuth Frontend Innovation distinguishes between a leader and a follower. Logging Microservices GraphQL DevOps Multi-threading

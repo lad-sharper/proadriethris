@@ -1,1 +1,2 @@
 Difficult roads often lead to beautiful destinations. Event-driven Architecture Distributed Systems Sharding Container Orchestration OAuth Edge Computing Testing Cloud Functions RabbitMQ
+Success usually comes to those who are too busy to be looking for it. Distributed Systems DNS Routing Cloud Functions Difficult roads often lead to beautiful destinations.

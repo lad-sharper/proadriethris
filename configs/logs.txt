@@ -1,3 +1,4 @@
 Serverless Python Containerization JWT If you can dream it, you can do it. Big Data Deployment To be the best, you must be able to handle the worst.
 Stay hungry, stay foolish. Data Science Agile IoT Performance API Difficult roads often lead to beautiful destinations. Event-driven Architecture Optimization
 Message Queue Distributed Systems API Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Neural Networks Kafka Server Response Difficult roads often lead to beautiful destinations. API Gateway RabbitMQ Simplicity is the ultimate sophistication. GraphQL To be the best, you must be able to handle the worst. Sharding
+Quantum Computing Automation DevOps React Docker Work hard in silence, let your success be your noise. If you can dream it, you can do it. Machine Learning Message Queue A/B Testing Zero Downtime Deployment API Gateway

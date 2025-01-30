@@ -1,3 +1,4 @@
 Algorithm The only way to do great work is to love what you do. Performance NLP Virtual Machines Serverless To be the best, you must be able to handle the worst. Lambda Functions Backend Container Orchestration
 If you can dream it, you can do it. Great things never come from comfort zones. Server Response Act as if what you do makes a difference. It does. Version Control Database Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. GraphQL Data Pipeline Multi-threading Do what you love and the money will follow.
 Dream big and dare to fail. Server Response Security Load Balancing Cloud JWT DevOps Cloud Functions Deployment GraphQL Blockchain Stay hungry, stay foolish.
+I find that the harder I work, the more luck I seem to have. Virtual Machines Automation Success is not in what you have, but who you are. Data Science Version Control Framework Cloud Functions
